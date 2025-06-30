@@ -14,7 +14,7 @@ import NotFoundPage from './pages/NotFoundPage';
 
 import DeveloperInfoPopup from './components/DeveloperInfo/DeveloperInfoPopup';
 import Footer from './components/Footer/Footer';
-import './styles/pages.css'
+
 import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
 
 function App () {
